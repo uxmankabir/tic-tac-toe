@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+Debug/
+tic-tac-toe.sdf
+tic-tac-toe.sln
+tic-tac-toe/Debug/
+tic-tac-toe/tic-tac-toe.vcxproj
+tic-tac-toe/tic-tac-toe.vcxproj.filters
+tic-tac-toe.v12.suo
